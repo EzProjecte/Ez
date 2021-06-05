@@ -1,3 +1,1 @@
-# Ez
-
-||test||
+# EzProject
