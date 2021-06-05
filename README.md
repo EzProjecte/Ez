@@ -8,6 +8,6 @@
 
 ```apt install nodejs```
 
-```git clone```
+```git clone https://github.com/EzProjecte/Ez```
 
 - Commandes Linux
